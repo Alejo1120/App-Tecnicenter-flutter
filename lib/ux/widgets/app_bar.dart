@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:fruver/ux/const/colors.dart';
+import 'menu.dart';
 
 class AppBarCustom extends StatelessWidget {
   const AppBarCustom({this.appbar = true, Key? key}) : super(key: key);
